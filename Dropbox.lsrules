@@ -1,0 +1,276 @@
+{
+  "description" : "A list of rules that allow Dropbox to access necessary online resources",
+  "name" : "Dropbox",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1573136293.5695329,
+      "modificationDate" : 1573136293.5695329,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.1.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136319.596092,
+      "modificationDate" : 1573136319.596092,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.11.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136204.2624021,
+      "modificationDate" : 1573136204.2624021,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.2.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573142677.2276621,
+      "modificationDate" : 1573142677.2276621,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.3.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136261.381475,
+      "modificationDate" : 1573136261.381475,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.4.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136283.202805,
+      "modificationDate" : 1573136283.202805,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.5.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136184.211128,
+      "modificationDate" : 1573136184.211128,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.6.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136245.475898,
+      "modificationDate" : 1573136245.475898,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.64.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136250.782963,
+      "modificationDate" : 1573136250.782963,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.65.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136256.3330898,
+      "modificationDate" : 1573136256.3330898,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.66.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136152.279027,
+      "modificationDate" : 1573136152.279027,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.67.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136267.7472649,
+      "modificationDate" : 1573136267.7472649,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.68.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136288.5145211,
+      "modificationDate" : 1573136288.5145211,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.69.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136308.9952841,
+      "modificationDate" : 1573136308.9952841,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.7.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136234.5763621,
+      "modificationDate" : 1573136234.5763621,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.70.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136273.499176,
+      "modificationDate" : 1573136273.499176,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.71.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136314.3020859,
+      "modificationDate" : 1573136314.3020859,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.72.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136228.7834048,
+      "modificationDate" : 1573136228.7834048,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.8.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136298.6153669,
+      "modificationDate" : 1573136298.6153669,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.80.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136278.1327429,
+      "modificationDate" : 1573136278.1327429,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.81.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136198.2914319,
+      "modificationDate" : 1573136198.2914319,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.82.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136303.6778889,
+      "modificationDate" : 1573136303.6778889,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.83.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136239.8978,
+      "modificationDate" : 1573136239.8978,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.125.9.1"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573157995.506933,
+      "modificationDate" : 1573157995.506933,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-hosts" : "connectivitycheck.getdropbox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573136210.8632331,
+      "modificationDate" : 1573136210.8632331,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-hosts" : "www.dropbox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572362097.0999532,
+      "modificationDate" : 1572362097.0999532,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-domains" : "dropbox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1572909212.800216,
+      "modificationDate" : 1572909212.800216,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "protocol" : "tcp",
+      "remote-domains" : "dropboxapi.com"
+    }
+  ]
+}
